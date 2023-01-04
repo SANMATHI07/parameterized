@@ -13,3 +13,4 @@ else
   echo "version $y is the latest version"
 fi
 hi
+hello
