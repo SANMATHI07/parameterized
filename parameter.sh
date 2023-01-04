@@ -12,3 +12,4 @@ if [ $(printf "%s\n" "$x" "$y" | sort -V -r | head -1) = "$x" ] ; then
 else
   echo "version $y is the latest version"
 fi
+hi
